@@ -86,7 +86,7 @@ if(xml!=NULL){
      int pays_index=0;
      char fond ='N';
     printf("Les nome des pays ayant une surface plus grand que (1.000.000 Km2) :  \n");
-    fond='N';
+
     while(pays_index<10){
         if(pays[pays_index].su>1000000) {
             fond='Y';
@@ -100,6 +100,7 @@ if(xml!=NULL){
     }
     pays_index=0;
     printf("-------------------------------- \n");
+    fond='N';
     printf("les Code du pays appartenant au continent africain : \n");
      while(pays_index<10){
          if(strcmp(pays[pays_index].ct,"Africa")==0){
