@@ -34,7 +34,7 @@ if(xml!=NULL){
      }
 //     for(i=0;i<10;i++) {
 //         printf("value : %d  \n", tab[i]);
-//     } // To sheck the 10 number list
+//     } // To check the 10 number list
     i=0;
     fseek(xml,137,SEEK_SET);
      while (!feof(xml)){
