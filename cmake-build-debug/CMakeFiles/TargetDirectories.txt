@@ -1,0 +1,3 @@
+C:/Users/DELL/CLionProjects/BBA-tp1/cmake-build-debug/CMakeFiles/BBA_tp1.dir
+C:/Users/DELL/CLionProjects/BBA-tp1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/BBA-tp1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
